@@ -1,0 +1,9 @@
+{
+  "domain": "pet_event_tracker",
+  "name": "Pet Event Tracker",
+  "version": "0.1.0",
+  "documentation": "https://github.com/alvaromartinhernandez/pet-tracker-ha",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@alvaromartinhernandez"]
+}
