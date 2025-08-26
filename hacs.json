@@ -2,5 +2,14 @@
   "name": "Pet Event Tracker",
   "content_in_root": false,
   "domains": ["pet_event_tracker"],
-  "iot_class": "local_push"
+  "iot_class": "local_push",
+
+  "render_readme": true,
+  "filename": "pet-event-card.js",
+  "resources": [
+    {
+      "file": "www/pet-event-card.js",
+      "type": "module"
+    }
+  ]
 }
