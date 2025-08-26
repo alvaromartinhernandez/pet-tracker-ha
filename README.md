@@ -1,5 +1,9 @@
 # Pet Tracker for Home Assistant
 
+
+Current version: 0.1.2
+
+
 Esta integración permite llevar un registro de cuándo tu mascota hace pis o caca 🐾.
 Te facilita un botón para "añadir caca" y otro para "añadir pis", guardando la fecha
 Además hay un registro con los eventos de los ultimos 7 dias.
